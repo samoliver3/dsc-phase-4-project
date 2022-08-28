@@ -10,7 +10,7 @@ This project utilizes a Jupyter Notebook for all the code and data exploration u
 
 ## Links to Important Resources
 
-1. [Project Presentation]
+1. [Project Presentation](https://github.com/samoliver3/dsc-phase-4-project/blob/main/PDFs/project4Presentation.pdf)
 2. [Data Exploration and Modeling Notebook](https://github.com/samoliver3/dsc-phase-4-project/blob/main/index.ipynb)
 3. [The Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
