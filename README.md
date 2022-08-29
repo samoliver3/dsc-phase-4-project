@@ -1,5 +1,7 @@
 # dsc-phase-4-project
 
+Created by Sam Oliver
+
 ## Project Overview
 
 The goal of this project is to predict the presence of pneumonia in patients from x-rays. The business applications of this project include offering a stand-alone software product that will quickly make diagnostics or a tool that could assist medical practitioners in making diagnoses. With over [1 million people in the US seeking hospital care in the US every year and about 50,000 deaths](https://www.thoracic.org/patients/patient-resources/resources/top-pneumonia-facts.pdf), the potential for this kind of product, aimed at predicting the presence of pneumonia in patients, will represent substantial business and ethical interests if executed well. 
@@ -84,11 +86,11 @@ The results for the final model are quite good in comparison to the standards wi
 
 ### Conclusions and further recommendations
 
-Ideas on how to improve and business solutions can be summarized here:
-
-![conclusions](./images/improve_solutions.png)
-
-The main goals to improve upon are to increase model performance and create a diagnostic tool that can either offer stand-alone use or assist with how medical practitioners diagnose pneumonia.
+Ideas on how to improve the model and achieve business solutions can be summarized by the following points:
+1. Collect more data to train the model and standardize this data (i.e. image size)
+2. Tune the model and increase computing power to speed up model results.
+3. Partner with hospitals and medical practitioners to utilize more (standardized) data and assist with diagnostic abilities.
+4. Create diagnostic software that will predict presence of pneumonia in real-time.
 
 ## Repository Structure
 
