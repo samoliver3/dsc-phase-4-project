@@ -4,7 +4,7 @@ Created by Sam Oliver
 
 ## Project Overview
 
-The goal of this project is to predict the presence of pneumonia in patients from x-rays. The business applications of this project include offering a stand-alone software product that will quickly make diagnostics or a tool that could assist medical practitioners in making diagnoses. With over [1 million people in the US seeking hospital care in the US every year and about 50,000 deaths](https://www.thoracic.org/patients/patient-resources/resources/top-pneumonia-facts.pdf), the potential for this kind of product, aimed at predicting the presence of pneumonia in patients, will represent substantial business and ethical interests if executed well. 
+The goal of this project is to predict the presence of pneumonia in patients from x-rays. The business applications of this project include offering a stand-alone software product that will quickly make diagnostics or a tool that could assist medical practitioners in making diagnoses. With over [1 million people in the US seeking hospital care in the US every year and about 50,000 deaths](https://www.thoracic.org/patients/patient-resources/resources/top-pneumonia-facts.pdf), the potential for this kind of product, aimed at predicting the presence of pneumonia in patients, will represent substantial business and ethical interests if executed well. This project is specifically intended to represent a startup that is seeking funding from an angel investor. Thus, the stakeholder is an angel investor, and specific conclusions and recommendations will be targeted at this particular audience.
 
 ## Navigation Instructions
 
