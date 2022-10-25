@@ -1,4 +1,4 @@
-# dsc-phase-4-project
+# Predicting Presence of Pneumonia from Chest X-rays
 
 Created by Sam Oliver
 
